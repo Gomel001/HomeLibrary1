@@ -1,0 +1,27 @@
+body {
+	padding: 30px;/**указываем сколько места между содержимым элемента 
+	и его границами**/
+	background-color: #C0C0C0;
+}
+
+h1{
+	font-weight: normal;/**начиртание шрифта норм**/
+	color: #000000;
+	margin: 0px;
+	font-family: Georgia, Times, serif;
+	font-size: 250%;/**размер шрифта**/
+	text-shadow: 2px 2px 3px #666666;/**тень текста**/
+	text-align: center;/**выравнивание текста**/
+	padding-bottom: 10px;
+}
+
+img.book {
+	width: 150px;
+	height: 200px;
+	float: left;
+	margin-right: 10px;
+}
+/**img.ono {
+	float: left;
+	margin-right: 10px;
+}**/
