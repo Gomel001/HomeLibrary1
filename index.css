@@ -12,15 +12,23 @@ h1{
 	font-size: 250%;/**размер шрифта**/
 	text-shadow: 2px 2px 3px #666666;/**тень текста**/
 	text-align: center;/**выравнивание текста**/
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 }
 
 img.book {
-	width: 150px;
-	height: 200px;
+	width: 200px;
+	height: 250px;
 	float: left;
 	margin-right: 10px;
+	vertical-align: text-top;
+	margin-bottom: 20px;
+	clear: left;
 }
+
+/**.book2 {
+	clear: left;
+}**/
+
 /**img.ono {
 	float: left;
 	margin-right: 10px;
